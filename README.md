@@ -1,109 +1,149 @@
-# 🌸 Sana Yasmine — Portfolio
+🌸 Sana Yasmine — Portfolio
 
-Welcome to my personal portfolio repository!  
-I’m **Sana Yasmine**, a passionate **Software Developer** and **Cybersecurity Enthusiast** pursuing a **B.Tech in Computer Science with a Minor in Cyber Security & Digital Forensics** at **VIT Bhopal University**.  
+Welcome to my personal portfolio repository!
+I’m Sana Yasmine, a Cybersecurity and Application Security Engineer with hands-on experience in Web & API VAPT, OWASP testing, reconnaissance, and writing risk-based vulnerability reports with clear remediation guidance. 
 
-This portfolio highlights my **technical journey**, **academic projects**, and **hands-on experience** in **AI/ML**, **Blockchain**, and **Ethical Hacking**.
+Sana yasmine - Resume
 
----
+This portfolio showcases my journey across Application Security, DevSecOps automation, and secure software development, along with projects in Blockchain and Steganography. 
 
-## 👩‍💻 About Me
+Sana yasmine - Resume
 
-🎓 **B.Tech CSE (Minor in Cybersecurity & Digital Forensics)** — *VIT Bhopal University*  
-📊 **CGPA:** 8.95 / 10  
-💡 **Goal:** Build secure, scalable, and innovative systems that bridge technology and impact.
+👩‍💻 About Me
 
-**What I’m currently working on:**
-- 🔐 Ethical Hacking & Network Security (EC-Council CEH)
-- 🤖 Eye Blink Morse Code Detection using AI/ML  
-- ☁️ DevSecOps CI/CD with Jenkins, Docker, and Kubernetes  
-- 💼 Blockchain-Based Certificate Validation Systems  
+🎓 B.Tech — Computer Science (Minor: Cyber Security & Digital Forensics) — VIT Bhopal University
+📊 CGPA: 8.97 / 10
+💡 Focus: Web & API security testing, secure SDLC practices, and practical vulnerability assessment.
 
----
+Currently exploring:
 
-## 🛠️ Technical Skills
+🔐 Ethical Hacking (CEH)
 
-**Languages:** Python, C++, Java, JavaScript  
-**Web:** HTML, CSS, Bootstrap, Node.js, Express.js, React.js, MongoDB  
-**Cybersecurity Tools:** Kali Linux, Burp Suite, ARPwatch, OpenVAS, IDA Pro, DVWA, XVWA  
-**Blockchain:** Solidity, Web3.js, Metamask, Keccak Algorithm  
-**AI/ML:** TensorFlow, Keras, OpenCV, Flask, Django  
-**DevOps:** AWS, GitHub Actions, Jenkins, Docker, Kubernetes  
-**Other Tools:** Git, VS Code, Postman  
+🛡️ Web & API Pentesting (OWASP Top 10)
 
----
+⚙️ DevSecOps automation using GitHub Actions
 
-## 🚀 Projects
+☁️ AWS fundamentals & cloud security basics 
 
-### 🔗 [Blockchain-Based Institutional Data Verification](#)
-Developed a blockchain platform for secure data verification, leading a 5-member team.  
-- 🧩 Achieved **60% fraud risk reduction** and **30% efficiency improvement**.  
-- **Tech:** Solidity, Web3.js, React.js, Node.js, MongoDB  
+Sana yasmine - Resume
 
-### 🧠 [MEC Steganography Tool](#)
-Created a Python tool to **hide and extract data** from images and audio using quantization and RLE.  
-- **Focus:** Data privacy through steganographic encoding.  
+🛠️ Skills
 
-### 🧪 [Web Application Penetration Testing (DVWA, XVWA)](#)
-Performed end-to-end security assessments using **Burp Suite** and **Kali Linux**.  
-- Identified **SQLi, XSS, CSRF**, and authentication flaws.  
-- Proposed detailed remediation strategies.  
+Security: SOC Monitoring, Incident Response, Threat Analysis, Vulnerability Management, SIEM, IDS/IPS, EDR, OWASP Top 10, MITRE ATT&CK, NIST CSF
+Tools: Kali Linux, Burp Suite, OpenVAS, Nmap, Wireshark, Metasploit, IDA Pro, DVWA, XVWA
+Programming: Python, Bash, Java, JavaScript
+Cloud & Web: AWS, GitHub Actions, MongoDB, SQL 
 
-### 👁️ [Eye Blink Morse Code Detection (Ongoing)](#)
-AI/ML project using computer vision to interpret Morse code from eye blinks for accessible communication.  
-- **Tech:** OpenCV, TensorFlow, Flask  
+Sana yasmine - Resume
 
----
+🚀 Projects
+🔗 Blockchain-Based Institutional Verification (Solidity, Web3)
 
-## 💼 Experience
+Smart-contract system for tamper-proof certificate verification with:
 
-**India Space Lab — Space Tech Intern** *(Dec 2024 – Jan 2025)*  
-- Conducted R&D on space technology innovations.  
-- Analyzed satellite and space-borne data for engineering applications.
+Role-based issuer/verifier access
 
----
+Immutable audit trail
 
-## 🧾 Certifications
+Fraud-resistant validation
 
-- **Certified Ethical Hacker (CEH)** – EC-Council *(2025 – 2026)*  
-- **Agile Methodologies** – IBM Career Education Program  
-- **DevOps, Agile & Design Thinking** – IBM Career Education Program  
-- **Programming with JavaScript** – Meta  
-- **Foundations of Cyber Physical Systems** – IIT Kharagpur  
+Led a 5-member team and reduced verification fraud risk by 60% 
 
----
+Sana yasmine - Resume
 
-## 🏅 Achievements
+🧩 MEC Steganography (Python)
 
-- 📈 Maintained a **CGPA of 8.95**
-- 🧠 Earned **15+ Google Cloud Skill Badges** (TensorFlow, Kubernetes, Generative AI, etc.)
-- 🏆 Led multiple academic projects in blockchain, AI, and security
-- 🌟 Organized college-level events as a **Telugu Club Member** and **AI Conclave Volunteer**
+Developed an image/audio steganography toolkit featuring:
 
----
+Secure encode/decode utilities
 
-## 🌍 Languages
+Payload validation
 
-- **English** — Fluent  
-- **Hindi** — Fluent  
-- **Telugu** — Fluent  
+Extraction accuracy checks
+Designed for privacy-focused covert communication use cases. 
 
----
+Sana yasmine - Resume
 
-## 📫 Contact
+🧪 Web App Penetration Testing (DVWA, XVWA)
 
-📧 **Email:** [yasminesana273@gmail.com](mailto:yasminesana273@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/sana-yasmine-170939251](https://linkedin.com/in/sana-yasmine-170939251)  
-🐙 **GitHub:** [github.com/Hazleshine](https://github.com/Hazleshine)  
-📍 **Location:** Bhopal, Madhya Pradesh, India  
+Performed hands-on pentesting and vulnerability validation by identifying:
 
----
+SQL Injection (SQLi)
 
-## ✨ Quote I Believe In
+Cross-Site Scripting (XSS)
 
-> “Discipline and curiosity together build innovation — one project at a time.”
+CSRF
 
----
+Authentication flaws
 
-⭐ **If you like my work, feel free to star this repo and connect with me!**  
-Let’s collaborate and create something impactful 🚀
+Created PoCs and structured remediation reports aligned with OWASP best practices. 
+
+Sana yasmine - Resume
+
+💼 Work Experience
+🏢 Redynox Technologies — Cybersecurity Intern (Sep 2025 – Oct 2025)
+
+Conducted VAPT using Burp Suite and Nmap
+
+Reported OWASP Top 10 issues with remediation guidance
+
+Supported SOC log analysis and alert triage 
+
+Sana yasmine - Resume
+
+🛰️ India Space Lab — Space Tech Intern (Dec 2024 – Jan 2025)
+
+Built Python automation for anomaly detection
+
+Implemented encryption-based validation and integrity checks for space datasets 
+
+Sana yasmine - Resume
+
+🧾 Certifications
+
+CEH (EC-Council, 2025–2026)
+
+Cybersecurity Analyst Simulation (Tata Forage, 2025)
+
+Blockchain Fundamentals (IBM, 2025)
+
+Agile & DevOps (IBM, 2025)
+
+Data Science (Accenture Forage, 2025) 
+
+Sana yasmine - Resume
+
+🏅 Achievements
+
+Organized campus technical events (+20% attendance)
+
+Earned 15+ Google Skills Badges
+
+Telugu Club member; AI Conclave volunteer 
+
+Sana yasmine - Resume
+
+🌍 Languages
+
+English | Hindi | Telugu 
+
+Sana yasmine - Resume
+
+📫 Contact
+
+📧 Email: yasminesana273@gmail.com
+
+💼 LinkedIn: linkedin.com/in/sana-yasmine-170939251
+
+🐙 GitHub: github.com/Hazleshine
+
+📍 Location: Hyderabad, Telangana, India 
+
+Sana yasmine - Resume
+
+✨ Quote I Believe In
+
+“Discipline and curiosity together build innovation — one project at a time.”
+
+⭐ If you like my work, feel free to star this repo and connect with me!
+Let’s collaborate and build secure, impactful solutions 🚀
